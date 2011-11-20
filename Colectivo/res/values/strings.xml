@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ColectivoActivity!</string>
+    <string name="app_name">Colectivo</string>
+    <string name="lblUsuario">Usuario</string>
+    <string name="lblClave">Clave</string>
+    <string name="lblPrincipal">Estoy en el menu principal</string>
+    <string name="lblError">CONTRASEÑA NO VALIDA</string>
+    <string name="lblBuscar">Buscar</string>
+    <string name="lblEmpresa">Ersa</string>
+    <string name="itemRecorr">Ver Recorrido</string>
+    <string name="itemHorario">Ver Horario</string>
+    <string name="lblVerRecorrido">Este es mi recorrido</string>
+    <string name="lblOpciones">Opciones</string>
+    <string name="lblHora">Hora</string>
+  
+        
+
+</resources>
